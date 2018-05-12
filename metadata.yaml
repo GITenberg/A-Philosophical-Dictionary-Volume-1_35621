@@ -1,0 +1,60 @@
+_repo: A-Philosophical-Dictionary-Volume-1_35621
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollet, T. (Tobias)
+    - Smollett, Tobias George
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+  - agent_name: Leigh, Oliver Herbrand Gordon
+    alias: Leigh, Oliver H. G.
+    gutenberg_agent_id: '37847'
+    url: http://www.gutenberg.org/2009/agents/37847
+  - agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+  translator:
+    agent_name: Fleming, William F.
+    gutenberg_agent_id: '37848'
+    url: http://www.gutenberg.org/2009/agents/37848
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_issued: '2011-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Works of Voltaire, A Contemporary Version, Vol. 5
+subjects:
+- !lcsh 'Philosophy -- Dictionaries'
+- !lcc 'B'
+- !lcsh 'Criticism (Philosophy)'
+title: A Philosophical Dictionary, Volume 01
+url: http://www.gutenberg.org/ebooks/35621
